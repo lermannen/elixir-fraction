@@ -1,0 +1,2 @@
+defmodule Fraction do
+end
