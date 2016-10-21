@@ -1,6 +1,6 @@
 # Fraction
 
-**TODO: Add description**
+A small package to handle mathematical fractions.
 
 ## Installation
 
@@ -10,7 +10,7 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 
     ```elixir
     def deps do
-      [{:fraction, "~> 0.1.0"}]
+      [{:fraction, "~> 0.1.1"}]
     end
     ```
 
@@ -21,4 +21,3 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
       [applications: [:fraction]]
     end
     ```
-
